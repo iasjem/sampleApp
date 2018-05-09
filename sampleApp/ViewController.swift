@@ -9,8 +9,9 @@
 import UIKit
 
 class ViewController: UIViewController {
-
-    let message = "doG"
+    @IBOutlet weak var justLabel: UILabel!
+    
+    let message = "doGgie"
     
     override func viewDidLoad() {
         super.viewDidLoad()
