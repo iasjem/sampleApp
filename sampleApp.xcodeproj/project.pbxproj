@@ -47,6 +47,7 @@
 		76EA426C20A2D63C00491790 /* sampleAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sampleAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		76EA427020A2D63C00491790 /* sampleAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sampleAppUITests.swift; sourceTree = "<group>"; };
 		76EA427220A2D63C00491790 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		76EA427E20A2E0CA00491790 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +104,7 @@
 				76EA425720A2D63C00491790 /* Assets.xcassets */,
 				76EA425920A2D63C00491790 /* LaunchScreen.storyboard */,
 				76EA425C20A2D63C00491790 /* Info.plist */,
+				76EA427E20A2E0CA00491790 /* README.md */,
 			);
 			path = sampleApp;
 			sourceTree = "<group>";
