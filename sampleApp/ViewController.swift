@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         justLabel.text = reverse(text: message)
         print(reverse(text: message))
+        // test me
     }
 
     func reverse(text: String) -> String {
