@@ -78,6 +78,7 @@
 		76EA424420A2D63A00491790 = {
 			isa = PBXGroup;
 			children = (
+				76EA427E20A2E0CA00491790 /* README.md */,
 				76EA424F20A2D63A00491790 /* sampleApp */,
 				76EA426420A2D63C00491790 /* sampleAppTests */,
 				76EA426F20A2D63C00491790 /* sampleAppUITests */,
@@ -104,7 +105,6 @@
 				76EA425720A2D63C00491790 /* Assets.xcassets */,
 				76EA425920A2D63C00491790 /* LaunchScreen.storyboard */,
 				76EA425C20A2D63C00491790 /* Info.plist */,
-				76EA427E20A2E0CA00491790 /* README.md */,
 			);
 			path = sampleApp;
 			sourceTree = "<group>";
