@@ -15,6 +15,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        justLabel.text = reverse(text: message)
         print(reverse(text: message))
     }
 
